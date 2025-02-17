@@ -1,4 +1,10 @@
-# Advanced Custom Fields REST API Filter  
+<p align="center">
+  <a href="#">
+    <img src="/.github/ressources/logo.png" alt="logo" width="175px">
+  </a>
+</p>
+<h2 align="center">Advanced Custom Fields REST API Filter</h2>
+
 
 ## Description  
 Advanced Custom Fields REST API Filter is a WordPress plugin that extends the REST API by:  
