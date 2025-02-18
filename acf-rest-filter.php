@@ -3,11 +3,11 @@
  * Plugin Name: Advanced Custom Fields REST API Filter
  * Plugin URI: https://otha.me?wp=acf-rest-filter
  * Description: A WordPress plugin that adds ACF fields to the REST API and enables dynamic filtering via query parameters.
- * Version: 1.0
+ * Version: 1.1
  * Author: Othmane N.
  * Author URI: https://otha.me
- * License: MIT
- * License URI: https://opensource.org/licenses/MIT
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: acf-rest-filter
  */
 
