@@ -4,7 +4,7 @@ Tags: ACF, REST API, API filter, Advanced Custom Fields, WordPress API
 Requires at least: 5.4  
 Tested up to: 6.4  
 Requires PHP: 7.2  
-Stable tag: 1.1
+Stable tag: 1.2.0
 License: MIT  
 License URI: https://opensource.org/licenses/MIT  
 
@@ -52,7 +52,7 @@ No, the plugin is optimized for efficiency and works seamlessly with WordPress R
 
 == Changelog ==  
 
-= 1.1 =  
+= 1.2.0 =  
 - 🎉 Initial release of ACF REST API Filter  
 - Adds ACF fields to REST API responses  
 - Enables filtering by ACF fields via query parameters  
@@ -60,7 +60,7 @@ No, the plugin is optimized for efficiency and works seamlessly with WordPress R
 - Fully compatible with ACF Pro  
 
 == Upgrade Notice ==  
-= 1.1 =  
+= 1.2.0 =  
 Initial release – adds ACF field filtering to WordPress REST API! 🚀  
 
 == License ==  

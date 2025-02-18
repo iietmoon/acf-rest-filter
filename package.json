@@ -1,0 +1,11 @@
+{
+  "name": "acf-rest-filter",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Othmane N.<iietmoon>",
+  "dependencies": {
+    "archiver": "^7.0.1"
+  }
+}
